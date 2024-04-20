@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DriveToMSU</string>
+    <string name="app_banner">Welcome to DriveToMSU App</string>
+    <string name="app_text">This app is intended to give direction to Montclair State University. Upon clicking the below button you will be navigated to Google Maps which points you to University Address from your current location by car. \n\nSafe Travels!</string>
+</resources>
